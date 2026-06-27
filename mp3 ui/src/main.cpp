@@ -27,7 +27,7 @@ void setup() {
   tft.setCursor(40, 100);
   tft.setTextColor(ILI9341_WHITE);
   tft.setTextSize(3);
-  tft.print("Hello World");
+  tft.print("Bruh");
 }
 
 void loop() {
